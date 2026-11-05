@@ -1,0 +1,15 @@
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.11\RepairServiceTracker\RepairServiceTracker\bin\Debug\net10.0-windows\RepairServiceTracker.exe
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.11\RepairServiceTracker\RepairServiceTracker\bin\Debug\net10.0-windows\RepairServiceTracker.deps.json
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.11\RepairServiceTracker\RepairServiceTracker\bin\Debug\net10.0-windows\RepairServiceTracker.runtimeconfig.json
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.11\RepairServiceTracker\RepairServiceTracker\bin\Debug\net10.0-windows\RepairServiceTracker.dll
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.11\RepairServiceTracker\RepairServiceTracker\bin\Debug\net10.0-windows\RepairServiceTracker.pdb
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.11\RepairServiceTracker\RepairServiceTracker\obj\Debug\net10.0-windows\RepairServiceTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.11\RepairServiceTracker\RepairServiceTracker\obj\Debug\net10.0-windows\RepairServiceTracker.AssemblyInfoInputs.cache
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.11\RepairServiceTracker\RepairServiceTracker\obj\Debug\net10.0-windows\RepairServiceTracker.AssemblyInfo.cs
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.11\RepairServiceTracker\RepairServiceTracker\obj\Debug\net10.0-windows\RepairServiceTracker.csproj.CoreCompileInputs.cache
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.11\RepairServiceTracker\RepairServiceTracker\obj\Debug\net10.0-windows\RepairServiceTracker.dll
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.11\RepairServiceTracker\RepairServiceTracker\obj\Debug\net10.0-windows\refint\RepairServiceTracker.dll
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.11\RepairServiceTracker\RepairServiceTracker\obj\Debug\net10.0-windows\RepairServiceTracker.pdb
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.11\RepairServiceTracker\RepairServiceTracker\obj\Debug\net10.0-windows\RepairServiceTracker.genruntimeconfig.cache
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.11\RepairServiceTracker\RepairServiceTracker\obj\Debug\net10.0-windows\ref\RepairServiceTracker.dll
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.11\RepairServiceTracker\RepairServiceTracker\obj\Debug\net10.0-windows\RepairSe.BDCB24AB.Up2Date
