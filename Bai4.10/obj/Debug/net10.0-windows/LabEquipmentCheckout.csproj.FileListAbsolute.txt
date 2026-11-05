@@ -1,0 +1,6 @@
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\obj\Debug\net10.0-windows\LabEquipmentCheckout.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\obj\Debug\net10.0-windows\LabEquipmentCheckout.AssemblyInfoInputs.cache
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\obj\Debug\net10.0-windows\LabEquipmentCheckout.AssemblyInfo.cs
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\obj\Debug\net10.0-windows\LabEquipmentCheckout.csproj.CoreCompileInputs.cache
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\obj\Debug\net10.0-windows\LabEquipmentCheckout.MainForm.resources
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\obj\Debug\net10.0-windows\LabEquipmentCheckout.csproj.GenerateResource.cache

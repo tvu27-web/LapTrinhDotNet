@@ -1,0 +1,17 @@
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\LabEquipmentCheckout\LabEquipmentCheckout\bin\Debug\net10.0-windows\LabEquipmentCheckout.exe
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\LabEquipmentCheckout\LabEquipmentCheckout\bin\Debug\net10.0-windows\LabEquipmentCheckout.deps.json
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\LabEquipmentCheckout\LabEquipmentCheckout\bin\Debug\net10.0-windows\LabEquipmentCheckout.runtimeconfig.json
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\LabEquipmentCheckout\LabEquipmentCheckout\bin\Debug\net10.0-windows\LabEquipmentCheckout.dll
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\LabEquipmentCheckout\LabEquipmentCheckout\bin\Debug\net10.0-windows\LabEquipmentCheckout.pdb
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\LabEquipmentCheckout\LabEquipmentCheckout\obj\Debug\net10.0-windows\LabEquipmentCheckout.MainForm.resources
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\LabEquipmentCheckout\LabEquipmentCheckout\obj\Debug\net10.0-windows\LabEquipmentCheckout.csproj.GenerateResource.cache
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\LabEquipmentCheckout\LabEquipmentCheckout\obj\Debug\net10.0-windows\LabEquipmentCheckout.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\LabEquipmentCheckout\LabEquipmentCheckout\obj\Debug\net10.0-windows\LabEquipmentCheckout.AssemblyInfoInputs.cache
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\LabEquipmentCheckout\LabEquipmentCheckout\obj\Debug\net10.0-windows\LabEquipmentCheckout.AssemblyInfo.cs
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\LabEquipmentCheckout\LabEquipmentCheckout\obj\Debug\net10.0-windows\LabEquipmentCheckout.csproj.CoreCompileInputs.cache
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\LabEquipmentCheckout\LabEquipmentCheckout\obj\Debug\net10.0-windows\LabEquipmentCheckout.dll
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\LabEquipmentCheckout\LabEquipmentCheckout\obj\Debug\net10.0-windows\refint\LabEquipmentCheckout.dll
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\LabEquipmentCheckout\LabEquipmentCheckout\obj\Debug\net10.0-windows\LabEquipmentCheckout.pdb
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\LabEquipmentCheckout\LabEquipmentCheckout\obj\Debug\net10.0-windows\LabEquipmentCheckout.genruntimeconfig.cache
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\LabEquipmentCheckout\LabEquipmentCheckout\obj\Debug\net10.0-windows\ref\LabEquipmentCheckout.dll
+D:\EPU\Nam 3\lap trinh dot net\05,11,2026\Bai4.10\LabEquipmentCheckout\LabEquipmentCheckout\obj\Debug\net10.0-windows\LabEquip.31D0028C.Up2Date

@@ -1,0 +1,9 @@
+﻿Mã phiếu,Mã sinh viên,Họ tên sinh viên,Thiết bị,Số lượng,Ngày mượn,Hạn trả,Ngày trả thực tế,Tình trạng
+PM001,SV2021001,Nguyễn Văn An,Máy hiện sóng Oscilloscope,1,26/10/2026,02/11/2026,,Quá hạn
+PM002,SV2021002,Trần Thị Bình,Bộ kit Arduino,2,31/10/2026,07/11/2026,,Đang mượn
+PM003,SV2021003,Lê Hoàng Cường,Máy hàn thiếc,1,24/10/2026,31/10/2026,30/10/2026,Đã trả
+PM004,SV2021004,Phạm Thu Dung,Đồng hồ vạn năng,3,03/11/2026,10/11/2026,,Đang mượn
+PM005,SV2021005,Hoàng Minh Đức,Laptop thực hành,1,16/10/2026,26/10/2026,27/10/2026,Đã trả
+PM006,SV2021006,Vũ Ngọc Hà,Bộ Raspberry Pi,2,28/10/2026,04/11/2026,,Quá hạn
+PM007,SV2021007,Đặng Quốc Huy,Kính hiển vi,1,05/11/2026,12/11/2026,,Đang mượn
+PM008,24810123123,vmt,Bộ kit Arduino,1,07/11/2026,13/11/2026,,Đang mượn
