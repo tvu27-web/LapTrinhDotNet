@@ -1,0 +1,10 @@
+﻿Mã lịch hẹn,Họ tên bệnh nhân,Số điện thoại,Ngày giờ hẹn,Bác sĩ,Lý do khám,Trạng thái
+LH002,Trần Thị Bình,0987654321,05/11/2026 09:30,BS. Trần Thị Mai,"Đau đầu, chóng mặt",Hoàn tất
+LH003,Lê Hoàng Cường,0369852147,05/11/2026 10:30,BS. Lê Quốc Khánh,Đau răng,Đang khám
+LH008,Bùi Thị Lan,0933445566,05/11/2026 11:00,BS. Phạm Ngọc Anh,Đau bụng,Đã hủy
+LH004,Phạm Thu Dung,0903123456,05/11/2026 14:00,BS. Phạm Ngọc Anh,Tái khám sau mổ,Chờ khám
+LH005,Hoàng Minh Đức,0775123987,05/11/2026 15:30,BS. Nguyễn Văn Hùng,Khám da liễu,Chờ khám
+LH006,Vũ Ngọc Hà,0584123456,05/11/2026 16:30,BS. Trần Thị Mai,Tiêm vắc xin,Chờ khám
+LH007,Đặng Quốc Huy,0898765432,06/11/2026 09:00,BS. Lê Quốc Khánh,Nhổ răng khôn,Chờ khám
+LH010,Wu mingcheng,0837699321,13/11/2026 20:00,BS. Nguyễn Văn Hùng,đau đầu,Chờ khám
+LH009,Vũ Minh Thành,0987654321,01/12/2026 09:30,BS. Phạm Ngọc Anh,Buồn nôn,Hoàn tất
