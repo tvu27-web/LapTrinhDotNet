@@ -1,0 +1,15 @@
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai53_SanPham\Bai53_SanPham\bin\Debug\net10.0-windows\Bai53_SanPham.exe
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai53_SanPham\Bai53_SanPham\bin\Debug\net10.0-windows\Bai53_SanPham.deps.json
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai53_SanPham\Bai53_SanPham\bin\Debug\net10.0-windows\Bai53_SanPham.runtimeconfig.json
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai53_SanPham\Bai53_SanPham\bin\Debug\net10.0-windows\Bai53_SanPham.dll
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai53_SanPham\Bai53_SanPham\bin\Debug\net10.0-windows\Bai53_SanPham.pdb
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai53_SanPham\Bai53_SanPham\obj\Debug\net10.0-windows\Bai53_SanPham.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai53_SanPham\Bai53_SanPham\obj\Debug\net10.0-windows\Bai53_SanPham.AssemblyInfoInputs.cache
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai53_SanPham\Bai53_SanPham\obj\Debug\net10.0-windows\Bai53_SanPham.AssemblyInfo.cs
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai53_SanPham\Bai53_SanPham\obj\Debug\net10.0-windows\Bai53_SanPham.csproj.CoreCompileInputs.cache
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai53_SanPham\Bai53_SanPham\obj\Debug\net10.0-windows\Bai53_SanPham.dll
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai53_SanPham\Bai53_SanPham\obj\Debug\net10.0-windows\refint\Bai53_SanPham.dll
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai53_SanPham\Bai53_SanPham\obj\Debug\net10.0-windows\Bai53_SanPham.pdb
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai53_SanPham\Bai53_SanPham\obj\Debug\net10.0-windows\Bai53_SanPham.genruntimeconfig.cache
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai53_SanPham\Bai53_SanPham\obj\Debug\net10.0-windows\ref\Bai53_SanPham.dll
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai53_SanPham\Bai53_SanPham\obj\Debug\net10.0-windows\Bai53_Sa.F0A189DF.Up2Date
