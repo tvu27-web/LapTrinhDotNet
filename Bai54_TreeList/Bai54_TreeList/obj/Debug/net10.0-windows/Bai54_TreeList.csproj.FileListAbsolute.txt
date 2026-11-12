@@ -1,0 +1,15 @@
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai54_TreeList\Bai54_TreeList\bin\Debug\net10.0-windows\Bai54_TreeList.exe
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai54_TreeList\Bai54_TreeList\bin\Debug\net10.0-windows\Bai54_TreeList.deps.json
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai54_TreeList\Bai54_TreeList\bin\Debug\net10.0-windows\Bai54_TreeList.runtimeconfig.json
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai54_TreeList\Bai54_TreeList\bin\Debug\net10.0-windows\Bai54_TreeList.dll
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai54_TreeList\Bai54_TreeList\bin\Debug\net10.0-windows\Bai54_TreeList.pdb
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai54_TreeList\Bai54_TreeList\obj\Debug\net10.0-windows\Bai54_TreeList.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai54_TreeList\Bai54_TreeList\obj\Debug\net10.0-windows\Bai54_TreeList.AssemblyInfoInputs.cache
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai54_TreeList\Bai54_TreeList\obj\Debug\net10.0-windows\Bai54_TreeList.AssemblyInfo.cs
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai54_TreeList\Bai54_TreeList\obj\Debug\net10.0-windows\Bai54_TreeList.csproj.CoreCompileInputs.cache
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai54_TreeList\Bai54_TreeList\obj\Debug\net10.0-windows\Bai54_TreeList.dll
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai54_TreeList\Bai54_TreeList\obj\Debug\net10.0-windows\refint\Bai54_TreeList.dll
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai54_TreeList\Bai54_TreeList\obj\Debug\net10.0-windows\Bai54_TreeList.pdb
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai54_TreeList\Bai54_TreeList\obj\Debug\net10.0-windows\Bai54_TreeList.genruntimeconfig.cache
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai54_TreeList\Bai54_TreeList\obj\Debug\net10.0-windows\ref\Bai54_TreeList.dll
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai54_TreeList\Bai54_TreeList\obj\Debug\net10.0-windows\Bai54_Tr.8173779C.Up2Date
