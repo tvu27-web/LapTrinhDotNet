@@ -1,0 +1,15 @@
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai52_TinhTien\Bai52_TinhTien\bin\Debug\net10.0-windows\Bai52_TinhTien.exe
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai52_TinhTien\Bai52_TinhTien\bin\Debug\net10.0-windows\Bai52_TinhTien.deps.json
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai52_TinhTien\Bai52_TinhTien\bin\Debug\net10.0-windows\Bai52_TinhTien.runtimeconfig.json
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai52_TinhTien\Bai52_TinhTien\bin\Debug\net10.0-windows\Bai52_TinhTien.dll
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai52_TinhTien\Bai52_TinhTien\bin\Debug\net10.0-windows\Bai52_TinhTien.pdb
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai52_TinhTien\Bai52_TinhTien\obj\Debug\net10.0-windows\Bai52_TinhTien.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai52_TinhTien\Bai52_TinhTien\obj\Debug\net10.0-windows\Bai52_TinhTien.AssemblyInfoInputs.cache
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai52_TinhTien\Bai52_TinhTien\obj\Debug\net10.0-windows\Bai52_TinhTien.AssemblyInfo.cs
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai52_TinhTien\Bai52_TinhTien\obj\Debug\net10.0-windows\Bai52_TinhTien.csproj.CoreCompileInputs.cache
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai52_TinhTien\Bai52_TinhTien\obj\Debug\net10.0-windows\Bai52_TinhTien.dll
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai52_TinhTien\Bai52_TinhTien\obj\Debug\net10.0-windows\refint\Bai52_TinhTien.dll
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai52_TinhTien\Bai52_TinhTien\obj\Debug\net10.0-windows\Bai52_TinhTien.pdb
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai52_TinhTien\Bai52_TinhTien\obj\Debug\net10.0-windows\Bai52_TinhTien.genruntimeconfig.cache
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai52_TinhTien\Bai52_TinhTien\obj\Debug\net10.0-windows\ref\Bai52_TinhTien.dll
+D:\EPU\Nam 3\lap trinh dot net\12.11.2026\Bai52_TinhTien\Bai52_TinhTien\obj\Debug\net10.0-windows\Bai52_Ti.92698474.Up2Date
